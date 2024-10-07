@@ -2,12 +2,12 @@ import 'dotenv/config';
 import { unwatchFile, watchFile } from 'fs';
 import { fileURLToPath } from 'url';
 
-global.owner = ['6289513081052'];
+global.owner = ['6285722623184'];
 global.selfmode = true;
-global.wm = 'Powered By Zayden';
-global.nameBot = 'ZYD-BOT';
-global.apikey = process.env.APIKEY || '';
-global.thumbnailUrl = 'https://telegra.ph/file/ecea75426746c3debcde2.jpg';
+global.wm = 'Powered By Lz ';
+global.nameBot = 'Lzz-BOT';
+global.apikey = process.lann.'https://api.betabotz.eu.org' || 'btzLamz';
+global.thumbnailUrl = 'https://files.catbox.moe/ovz8dy.jpg';
 
 global.pairing_code = {
   status: true,
